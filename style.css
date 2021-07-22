@@ -1,0 +1,164 @@
+.font {
+  font-family: Tahoma, "Segoe UI", Geneva, Verdana, sans-serif;
+}
+.my-pad {
+  padding: 150px 0px 200px 0;
+}
+.padding {
+  padding: 100px 0px 50px 0px;
+}
+
+.size {
+  font-size: 23px;
+}
+
+.sizecont {
+  width: 2px;
+}
+
+.personal-style-b {
+  background-color: darkblue;
+  color: white;
+}
+
+.personal-style-new {
+  background-color: red;
+  color: white;
+  height: 100px;
+  width: auto;
+}
+
+@media (min-width: 992px) {
+  .margin {
+    margin: 0% 30% 2px 30%;
+  }
+  /* .text-size-c {
+    font-size: 14.5px;
+  } */
+}
+
+/* .image-style {
+  width: 300px;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  .image-style {
+    width: 350px;
+    height: auto;
+  }
+} */
+
+.new-padding {
+  padding: 2px 20px;
+}
+
+@media (min-width: 768px) {
+  .new-padding {
+    padding: 0px 0px;
+  }
+  /* .text-size-c {
+    font-size: 14.9px;
+  }
+
+  .text-size-html {
+    font-size: 18px;
+  } */
+  /* .md-margin {
+    height: 550px;
+  } */
+}
+
+/* @media (width: 992px) {
+  .md-margin {
+    height: 450px;
+  }
+} */
+.image-dimension {
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+}
+
+.image-size {
+  height: 200px;
+  width: 200px;
+  align-self: center;
+}
+
+.image-size-1 {
+  height: 150px;
+  width: 175px;
+  align-self: center;
+}
+
+.image-size-web {
+  height: 300px;
+  width: auto;
+  align-self: center;
+}
+
+.image-size-2 {
+  height: 150px;
+  width: 150px;
+  align-self: center;
+}
+
+@media (min-width: 768px) {
+  /* .md-margin {
+    height: 500px;
+  } */
+  /* .text-size-c {
+    font-size: 14.3px;
+  }
+  .text-size-python {
+    font-size: 22px;
+  } */
+}
+
+.md-margin {
+  height: 450px;
+}
+
+.know-more-html {
+  margin: 10px;
+}
+
+/* @media (min-width: 768px) {
+  .know-more-c {
+    margin: 21px 0px 0px 0px;
+  }
+
+  .know-more-python {
+    margin: 50px 0px 0px 0px;
+  }
+}
+
+/* @media (min-width: 992px) {
+  .know-more-c {
+    margin: 5px 0px 0px 0px;
+  }
+
+  .know-more-python {
+    margin: 25px 0px 0px 0px;
+  }
+} */
+
+@media screen {
+  .text-size-c {
+    font-size-adjust: inherit;
+  }
+}
+
+.margin-left {
+  margin-left: 20px;
+}
+
+.color {
+  color: magenta;
+}
+
+.photo-size {
+  height: 300px;
+  width: auto;
+}
